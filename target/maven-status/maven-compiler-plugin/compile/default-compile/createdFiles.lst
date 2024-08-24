@@ -1,0 +1,5 @@
+org\example\spring_library\BookController.class
+org\example\spring_library\BookRepository.class
+org\example\spring_library\Book.class
+org\example\spring_library\ServletInitializer.class
+org\example\spring_library\SpringLibraryApplication.class
